@@ -1,0 +1,20 @@
+
+# env
+*.env
+*.env.yaml
+
+# Ignorar archivos temporales
+*.tmp
+
+# Ignorar archivos de registro
+*.log
+
+# Ignorar archivos de respaldo
+*~
+
+# Ignorar archivos de configuración de sistema
+.DS_Store
+
+# Ignorar archivos de caché del IDE
+.idea/
+.vscode/

@@ -1,0 +1,5 @@
+validate data in post and put
+no name is same user already have this name 
+PUT | no empty values and verify status, is not necesary to put
+
+delete is not working
